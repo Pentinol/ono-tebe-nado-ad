@@ -1,1 +1,1 @@
-https://github.com/Pentinol/ono-tebe-nado-ad
+https://github.com/Pentinol/posmotri-v-okno-ad
